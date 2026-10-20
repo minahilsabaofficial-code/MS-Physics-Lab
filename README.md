@@ -5,7 +5,7 @@ A free, mobile-friendly virtual physics lab for Higher Secondary students, avail
 **Made for:** STEAM Exhibition 2026-27, Theme: AI, Digital Solutions, Gamification, Automation, Coding.
 **By:** [Minahil Saba], [Government Degree Science and Commerce College Malir Cantt], Karachi
 
-**Live demo:** https://[your-username].github.io/[repository-name]/
+**Live demo:** https://[https://minahilsabaofficial-code.github.io/MS-Physics-Lab/].github.io/[repository-name]/
 
 ## The problem
 Many government colleges have little or no lab equipment, so students often learn practicals only from the textbook. Existing tools like PhET are excellent, but they are mostly in English and not matched to our syllabus.
