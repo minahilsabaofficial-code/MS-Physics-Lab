@@ -1,6 +1,6 @@
 # [Project Name]: Virtual Physics Lab
 
-A free, mobile-friendly virtual physics lab for Higher Secondary students, available in **English and Urdu**.
+A free, mobile-friendly virtual physics lab for 1st year college students of Sindh Board, available in **English and Urdu**.
 
 **Made for:** STEAM Exhibition 2026-27, Theme: AI, Digital Solutions, Gamification, Automation, Coding.
 **By:** [Minahil Saba], [Government Degree Science and Commerce College Malir Cantt], Karachi
@@ -8,14 +8,14 @@ A free, mobile-friendly virtual physics lab for Higher Secondary students, avail
 **Live demo:** https://[https://minahilsabaofficial-code.github.io/MS-Physics-Lab/].github.io/[repository-name]/
 
 ## The problem
-Many government colleges have little or no lab equipment, so students often learn practicals only from the textbook. Existing tools like PhET are excellent, but they are mostly in English and not matched to our syllabus.
+Many government colleges have little or no lab equipment, in result, students are not able to understand the practical properly. Existing tools and apps are excellent, but they are mostly in English and not matched to our syllabus.
 
 ## The solution
 Students perform physics practicals on their phone, with sliders and buttons, in front of a virtual lab. No installation, no equipment, and no cost.
 
 ## Features
 - Experiments from the college physics practical manual
-- Animated apparatus, with a ruler and a stopwatch
+- Animated apparatus, with rulers, stopwatches etc.
 - Observation table and graph that fill in automatically
 - Calculated result (for example, the value of g)
 - Quiz with explanations and correct answers
@@ -23,9 +23,10 @@ Students perform physics practicals on their phone, with sliders and buttons, in
 - XP, levels and badges to keep students motivated
 - "My Mistakes" page saved on the student's own device (no login)
 - Available in English and Urdu Languages.
+- Makes a report for the practical 
 
 ## Experiments
-- [x] Simple pendulum: T ∝ √L and finding g
+- [ ] Simple pendulum: T ∝ √L and finding g
 - [ ] Inclined plane: force vs sin θ
 - [ ] Cell EMF and internal resistance
 - [ ] Tungsten filament lamp: I vs V
@@ -39,3 +40,5 @@ Open the live demo link in any browser and choose an experiment.
 ## Future plans
 - More physics experiments
 - Chemistry lab
+- Bio Lab
+- Offline Mode
