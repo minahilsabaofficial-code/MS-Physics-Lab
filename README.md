@@ -1,11 +1,11 @@
-# [Project Name]: Virtual Physics Lab
+# Project Name: Virtual Physics Lab
 
 A free, mobile-friendly virtual physics lab for 1st year college students of Sindh Board, available in **English and Urdu**.
 
 **Made for:** STEAM Exhibition 2026-27, Theme: AI, Digital Solutions, Gamification, Automation, Coding.
 **By:** [Minahil Saba], [Government Degree Science and Commerce College Malir Cantt], Karachi
 
-**Live demo:** https://[https://minahilsabaofficial-code.github.io/MS-Physics-Lab/].github.io/[repository-name]/
+**Live demo:** [https://minahilsabaofficial-code.github.io/MS-Physics-Lab/]
 
 ## The problem
 Many government colleges have little or no lab equipment, in result, students are not able to understand the practical properly. Existing tools and apps are excellent, but they are mostly in English and not matched to our syllabus.
