@@ -2,7 +2,7 @@
 
 A free, mobile-friendly virtual physics lab for 1st year college students of Sindh Board, available in **English and Urdu**.
 
-**Made for:** STEAM Exhibition 2026-27, Theme: AI, Digital Solutions, Gamification, Automation, Coding.
+**Made for:** STREAM Exhibition 2026-27, Theme: AI, Digital Solutions, Gamification, Automation, Coding.
 **By:** [Minahil Saba], [Government Degree Science and Commerce College Malir Cantt], Karachi
 
 **Live demo:** [https://minahilsabaofficial-code.github.io/MS-Physics-Lab/]
@@ -23,7 +23,8 @@ Students perform physics practicals on their phone, with sliders and buttons, in
 - XP, levels and badges to keep students motivated
 - "My Mistakes" page saved on the student's own device (no login)
 - Available in English and Urdu Languages.
-- Makes a report for the practical 
+- Makes a report for the practical
+- helps students to perform and umderstand the practica;s.
 
 ## Experiments
 - [ ] Simple pendulum: T ∝ √L and finding g
@@ -32,7 +33,7 @@ Students perform physics practicals on their phone, with sliders and buttons, in
 - [ ] Tungsten filament lamp: I vs V
 
 ## Built with
-HTML, CSS, JavaScript and Chart.js. Written and tested on a phone, and published free on GitHub Pages.
+HTML, CSS, JavaScript and Chart.js. Written and tested , and published free on GitHub Pages.
 
 ## How to use
 Open the live demo link in any browser and choose an experiment.
