@@ -1,6 +1,6 @@
-# Project Name: Virtual Physics Lab
+# Project Name: SciFyLab ( The Virtual Lab )
 
-A free, mobile-friendly virtual physics lab for 1st year college students of Sindh Board, available in **English and Urdu**.
+A free, mobile-friendly virtual physics lab for 1st year & 2nd year college students of Sindh Board, available in **English and Urdu**.
 
 **Made for:** STREAM Exhibition 2026-27, Theme: AI, Digital Solutions, Gamification, Automation, Coding.
 **By:** Minahil Saba, Anus Mughal & Ayesha from, Government Degree Science and Commerce College Malir Cantt,Karachi.
